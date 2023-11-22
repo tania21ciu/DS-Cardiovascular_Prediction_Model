@@ -19,6 +19,6 @@ In this project, Heart Disease UCI Dataset published by Ronit in Kaggle website 
 -   ca => ca-number of main vessels with values 0 to 3 colored by fluoroscopy
 -   thal => 3 means normal, 6 means permanent disability, 7 means reversible defects
 -   target
--   
+  
 ## Result
-
+By using Heart Disease UCI dataset, it was found that the use of the logistic regression algorithm is effective and efficient in predicting cardiovascular disease. Based on the result of data validation, it is found that the accuracy of prediction results reaches 85% with an error rate that tends to be small at 0.1406565. It proves that this algorithm is suitable for use as a prediction algorithm in this study. Based on the results of predictions, it can also be concluded that cardiovascular disease is significantly affected by gender, trestbps - blood pressure, thalach - heart rate, and ca - number of vessel affected by fluoroscopy. 
