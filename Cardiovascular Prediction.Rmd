@@ -1,7 +1,4 @@
-Tania Ciu
-00000027615
-
-Mengimport library
+Import library
 ```{r, echo = TRUE, message = FALSE, warning = FALSE}
 install.packages("DataExplorer")
 library(DataExplorer)
